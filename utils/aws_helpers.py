@@ -35,3 +35,4 @@ def check_rds_connection(host, database, user, password):
         return True
     except Exception:
         return False
+# helpers
