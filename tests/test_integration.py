@@ -106,3 +106,4 @@ class TestCloudDeploymentHealth:
 # flow tests
 # s3 test
 # sla tests
+# health checks
