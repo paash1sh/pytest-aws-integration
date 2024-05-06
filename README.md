@@ -40,3 +40,4 @@ pytest tests/ -v --html=reports/report.html
 ## CI/CD
 
 GitHub Actions runs on every push to `main` and on a scheduled cron (`Mon–Fri 6am UTC`) to catch environment drift overnight.
+# readme
